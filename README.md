@@ -43,7 +43,7 @@
 - ✅ Interactive web deployment with Streamlit
 - ✅ Real-time predictions with professional UI/UX
 
-**🏆 Awarded:** Best Non-Final Year Project (Kalanidhi 2025) at Poornima College of Engineering
+
 
 ---
 
