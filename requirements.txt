@@ -1,7 +1,18 @@
-streamlit
+# Wine Quality Prediction System - Dependencies
+
+# Core ML/Data Science
+scikit-learn
 pandas
 numpy
-scikit-learn
 imbalanced-learn
+# Web Framework
+streamlit
+# Visualization
 plotly
+
+# Model Persistence
+joblib
+# Optional: For development
+jupyter
 matplotlib
+seaborn
